@@ -12,9 +12,11 @@
     <PackageIconUrl>https://raw.githubusercontent.com/lukencode/FluentEmail/master/assets/fluentemail_logo_64x64.png</PackageIconUrl>
     <PackageProjectUrl>https://github.com/lukencode/FluentEmail</PackageProjectUrl>
     <RepositoryUrl>https://github.com/lukencode/FluentEmail</RepositoryUrl>
+    <NetStandardImplicitPackageVersion>2.0.0</NetStandardImplicitPackageVersion>
     <GenerateAssemblyConfigurationAttribute>false</GenerateAssemblyConfigurationAttribute>
     <GenerateAssemblyCompanyAttribute>false</GenerateAssemblyCompanyAttribute>
     <GenerateAssemblyProductAttribute>false</GenerateAssemblyProductAttribute>
+    <Version>2.1.0</Version>
   </PropertyGroup>
 
   <ItemGroup>
